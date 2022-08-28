@@ -1,2 +1,6 @@
-package com.homework.jpa.config;public class DatabaseConfig {
+package com.homework.jpa.config;
+
+public class DatabaseConfig {
+
+
 }
